@@ -1,0 +1,51 @@
+2022-04-07 19:32:20,455 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,456 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,457 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,463 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,463 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,463 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,464 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,465 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,467 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,472 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,472 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,472 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,472 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,472 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,474 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,478 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,479 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,479 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,479 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,479 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,481 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,486 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,486 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,486 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,486 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,486 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,488 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,493 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,493 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,493 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,493 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,493 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,495 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,498 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,498 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,498 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,498 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,499 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,500 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,504 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,504 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,504 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,504 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,505 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,506 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
+2022-04-07 19:32:20,509 - Velocimacro : VM addition rejected : makeProject : inline not allowed to replace existing VM
+2022-04-07 19:32:20,509 - Velocimacro : VM addition rejected : image : inline not allowed to replace existing VM
+2022-04-07 19:32:20,509 - Velocimacro : VM addition rejected : projectanchor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,509 - Velocimacro : VM addition rejected : metaauthor : inline not allowed to replace existing VM
+2022-04-07 19:32:20,510 - Velocimacro : VM addition rejected : document : inline not allowed to replace existing VM
+2022-04-07 19:32:20,511 - ResourceManager : found ./website.vsl with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
