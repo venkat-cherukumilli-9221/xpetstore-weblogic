@@ -1,0 +1,4 @@
+dist
+xdocs/build
+xpetstore-ejb/build
+xpetstore-servlet/build
