@@ -2,3 +2,6 @@ dist
 xdocs/build
 xpetstore-ejb/build
 xpetstore-servlet/build
+.project
+xpetstore-servlet/.classpath
+xpetstore-servlet/.project
