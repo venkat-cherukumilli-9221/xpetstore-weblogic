@@ -314,6 +314,10 @@
             	<exclude name="**/web/**/*" />
             	<exclude name="**/test/**/*" />
             </fileset>
+      		<fileset dir="${resources.dir}">	
+      			<include name="webAddress.xml" />
+      			<exclude name="Resources.properties" />
+      		</fileset>
             
             <metainf dir="${build.dir}/META-INF" includes="*.xml" />
             <metainf dir="${java.dir}/META-INF"  includes="*.xml" excludes="application.xml" />
