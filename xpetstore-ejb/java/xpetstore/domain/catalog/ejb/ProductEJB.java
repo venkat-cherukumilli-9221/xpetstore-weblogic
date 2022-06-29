@@ -36,7 +36,7 @@ public abstract class ProductEJB
 {
 
     private String ipAddress1 = "192.121.10.1";
-    private String ipAddress2 = "172.121.101.21";
+    private String ipAddress2 = "t3s://172.121.101.21";
     //~ Methods ----------------------------------------------------------------
 
     //==========================================
