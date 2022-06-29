@@ -34,6 +34,9 @@ import xpetstore.domain.catalog.model.ProductValue;
 public abstract class ProductEJB
     implements EntityBean
 {
+
+    private String ipAddress1 = "192.121.10.1";
+    private String ipAddress2 = "172.121.101.21";
     //~ Methods ----------------------------------------------------------------
 
     //==========================================
