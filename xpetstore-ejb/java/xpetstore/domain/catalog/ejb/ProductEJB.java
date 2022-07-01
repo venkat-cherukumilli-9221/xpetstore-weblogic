@@ -7,6 +7,7 @@ import javax.ejb.EntityBean;
 
 import xpetstore.domain.catalog.interfaces.CategoryLocal;
 import xpetstore.domain.catalog.model.ProductValue;
+import weblogic.logging.NonCatalogLogger;
 
 
 /**
@@ -37,6 +38,7 @@ public abstract class ProductEJB
 
     private String ipAddress1 = "192.121.10.1";
     private String ipAddress2 = "t3s://172.121.101.21";
+    NonCatalogLogger logger = new NonCatalogLogger("Weblogic Log");
     //~ Methods ----------------------------------------------------------------
 
     //==========================================
