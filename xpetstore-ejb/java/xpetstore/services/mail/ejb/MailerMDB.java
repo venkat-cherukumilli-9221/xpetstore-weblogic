@@ -30,7 +30,7 @@ import xpetstore.util.JNDINames;
  * @ejb.bean
  *      name="Mailer"
  *      acknowledge-mode="Auto-acknowledge"
- *      destination-type="javax.jms.Queue"
+ *      destination-type="javax.jms.Topic"
  *      subscription-durability="Durable"
  *      transaction-type="Container"
  * @ejb.transaction
