@@ -1,5 +1,9 @@
 package xpetstore.services.petstore.ejb;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.sql.Connection;
 import java.sql.SQLException;
 
@@ -132,6 +136,23 @@ public abstract class PetstoreEJB
 {
     //~ Methods ----------------------------------------------------------------
 
+	public void readFile() {
+    	String filePath = "D:/usr/randoop-4.3.0/junits-output/xpetstore/RegressionTest.java";
+    	FileReader fr=null;
+    	try
+    	{
+    	    fr = new FileReader(filePath);
+    	    new URI("file://randoop-4.3.0/junits-output/xpetstore/RegressionTest.java");
+    	}
+    	catch (URISyntaxException e)
+    	{
+    	    System.out.println("File not found");
+    	} catch (FileNotFoundException fe)
+    	{
+    	    System.out.println("File not found");
+    	}
+    }
+	
     //===============================================
     // Signon business methods
     //===============================================
